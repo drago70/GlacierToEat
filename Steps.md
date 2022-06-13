@@ -1,5 +1,5 @@
 Create VPC architecture in AWS
-![Diagram](glacier infrastructure.png)
+![Diagram](glacier-infrastructure.png)
 
 Create RDS instance with MariaDB
 
