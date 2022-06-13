@@ -1,4 +1,5 @@
 Create VPC architecture in AWS
+![Diagram](glacier infrastructure.png)
 
 Create RDS instance with MariaDB
 
@@ -11,5 +12,7 @@ sudo yum install httpd
 5. sudo yum install php7.4
 6. sudo yum install php
 7. sudo yum install php7
+![Diagram](installing-mariadb.png)
+
 
 Create S3 Bucket
